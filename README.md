@@ -13,8 +13,8 @@ We selected a portion of the Amazon forest in Acre and Amazonas states, Brazil, 
 
 <p align="center">
   <img 
-    width="800"
-    height="800"
+    width="500"
+    height="500"
     src = Figure_study_area.png
   >
 </p>
@@ -27,5 +27,22 @@ python run.py
 ```
 
 ### Results
+
+<p align="center">
+  <img 
+    width="500"
+    height="500"
+    src = Results.png
+  >
+</p>
+
+
+<p align="center">
+  <img 
+    width="500"
+    height="500"
+    src = Visual_Results.png
+  >
+</p>
 
 
