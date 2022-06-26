@@ -30,8 +30,6 @@ python run.py
 
 <p align="center">
   <img 
-    width="500"
-    height="500"
     src = Results.png
   >
 </p>
@@ -39,8 +37,6 @@ python run.py
 
 <p align="center">
   <img 
-    width="500"
-    height="500"
     src = Visual_Results.png
   >
 </p>
