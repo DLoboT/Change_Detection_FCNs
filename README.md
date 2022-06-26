@@ -9,7 +9,7 @@ Implementation and pretrained models. For details, see * [Paper](https://www.mdp
 
 ### Dataset
 
-Location of the Campo Verde dataset in the state of Mato Grosso, Brazil. It comprises 513 fields divided into training (black fields) and validation (gray fields) sets.
+We selected a portion of the Amazon forest in Acre and Amazonas states, Brazil, as a study site (see Figure 7). This area extends over approximately 12,065 km2, covering around 0.3% of the total Brazilian Amazon forest. This area intersects with the 003066 Landsat pathrow scene, and its coordinates are 08∘08′ 28′′S–09∘08′07′′S latitude, and 68∘54′40′′W–69∘54′29′′W longitude. 
 
 <p align="center">
   <img 
