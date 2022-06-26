@@ -21,17 +21,11 @@ We selected a portion of the Amazon forest in Acre and Amazonas states, Brazil, 
 
 ### Dependencies
 
-This codebase has been developed with python version 3.6 and CUDA 11.0. The exact arguments to reproduce the models presented in our paper can be found in the cl_cv_config file. For training please run:
+This codebase has been developed with python version 3.6 and CUDA 11.0. The exact arguments to reproduce the models presented in our paper can be found in the arguments file. For training please run:
 ```
-python cl_cv.py
+python run.py
 ```
 
-### SimSiam architecture.
+### Results
 
-<p align="center">
-  <img 
-    width="800"
-    height="500"
-    src = simsiam_last.png
-  >
-</p>
+
