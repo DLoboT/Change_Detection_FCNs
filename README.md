@@ -9,7 +9,7 @@ Implementation and pretrained models. For details, see * [Paper](https://www.mdp
 
 ### Dataset
 
-We selected a portion of the Amazon forest in Acre and Amazonas states, Brazil, as a study site (see below Figure). This area extends over approximately 12,065 km2, covering around 0.3% of the total Brazilian Amazon forest. 
+We selected a portion of the Amazon forest in Acre and Amazonas states, Brazil, as a study site (see Figure below). This area extends over approximately 12,065 km2, covering around 0.3% of the total Brazilian Amazon forest. 
 
 <p align="center">
   <img 
