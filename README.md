@@ -9,7 +9,7 @@ Implementation and pretrained models. For details, see * [Paper](https://www.mdp
 
 ### Dataset
 
-We selected a portion of the Amazon forest in Acre and Amazonas states, Brazil, as a study site (see Figure 7). This area extends over approximately 12,065 km2, covering around 0.3% of the total Brazilian Amazon forest. This area intersects with the 003066 Landsat pathrow scene, and its coordinates are 08∘08′ 28′′S–09∘08′07′′S latitude, and 68∘54′40′′W–69∘54′29′′W longitude. 
+We selected a portion of the Amazon forest in Acre and Amazonas states, Brazil, as a study site (see below Figure). This area extends over approximately 12,065 km2, covering around 0.3% of the total Brazilian Amazon forest. 
 
 <p align="center">
   <img 
@@ -21,7 +21,7 @@ We selected a portion of the Amazon forest in Acre and Amazonas states, Brazil, 
 
 ### Dependencies
 
-This codebase has been developed with python version 3.6 and CUDA 11.0. The exact arguments to reproduce the models presented in our paper can be found in the arguments file. For training please run:
+This codebase has been developed with python version 3.6 and CUDA 11.0. The exact arguments to reproduce the models can be found in the arguments file. For training please run:
 ```
 python run.py
 ```
